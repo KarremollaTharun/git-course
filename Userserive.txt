@@ -1,2 +1,3 @@
 get help
 clear
+process the data
